@@ -1,0 +1,15 @@
+{
+  "app-title": "Thời Tiết Hôm Nay",
+  "get-weather": "Xem Thời Tiết",
+  "city": "Thành Phố",
+  "temp": "Nhiệt độ",
+  "wind": "Gió",
+  "humidity": "Độ ẩm",
+  "last-updated": "Cập nhật lần cuối lúc",
+  "Hanoi": "Hà Nội",
+  "London": "London",
+  "Berlin": "Berlin",
+  "Moscow": "Moskau",
+  "Paris": "Paris",
+  "Cairo": "Kairo"
+}

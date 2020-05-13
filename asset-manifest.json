@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/simple-weather/static/js/main.f0a5e4ae.chunk.js",
+    "main.js.map": "/simple-weather/static/js/main.f0a5e4ae.chunk.js.map",
+    "runtime-main.js": "/simple-weather/static/js/runtime-main.cc0ccf80.js",
+    "runtime-main.js.map": "/simple-weather/static/js/runtime-main.cc0ccf80.js.map",
+    "static/js/2.558c5057.chunk.js": "/simple-weather/static/js/2.558c5057.chunk.js",
+    "static/js/2.558c5057.chunk.js.map": "/simple-weather/static/js/2.558c5057.chunk.js.map",
+    "static/js/3.e1c5102c.chunk.js": "/simple-weather/static/js/3.e1c5102c.chunk.js",
+    "static/js/3.e1c5102c.chunk.js.map": "/simple-weather/static/js/3.e1c5102c.chunk.js.map",
+    "static/js/4.7d2bbbfd.chunk.js": "/simple-weather/static/js/4.7d2bbbfd.chunk.js",
+    "static/js/4.7d2bbbfd.chunk.js.map": "/simple-weather/static/js/4.7d2bbbfd.chunk.js.map",
+    "static/js/5.819f4646.chunk.js": "/simple-weather/static/js/5.819f4646.chunk.js",
+    "static/js/5.819f4646.chunk.js.map": "/simple-weather/static/js/5.819f4646.chunk.js.map",
+    "static/js/6.edd8a32c.chunk.js": "/simple-weather/static/js/6.edd8a32c.chunk.js",
+    "static/js/6.edd8a32c.chunk.js.map": "/simple-weather/static/js/6.edd8a32c.chunk.js.map",
+    "index.html": "/simple-weather/index.html",
+    "precache-manifest.c9a2efee1079abd173cfa28290577808.js": "/simple-weather/precache-manifest.c9a2efee1079abd173cfa28290577808.js",
+    "service-worker.js": "/simple-weather/service-worker.js",
+    "static/js/2.558c5057.chunk.js.LICENSE.txt": "/simple-weather/static/js/2.558c5057.chunk.js.LICENSE.txt",
+    "static/js/3.e1c5102c.chunk.js.LICENSE.txt": "/simple-weather/static/js/3.e1c5102c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0ccf80.js",
+    "static/js/2.558c5057.chunk.js",
+    "static/js/main.f0a5e4ae.chunk.js"
+  ]
+}

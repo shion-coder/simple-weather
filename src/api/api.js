@@ -1,7 +1,7 @@
 import axios from 'axios';
 import axiosRetry from 'axios-retry';
 
-import { CURRENT_WEATHER_URL, WEATHER_API_KEY, FETCH_TIMEOUT } from 'config/consts';
+import { CURRENT_WEATHER_URL, FETCH_TIMEOUT } from 'config/consts';
 
 /* -------------------------------------------------------------------------- */
 
@@ -9,6 +9,8 @@ import { CURRENT_WEATHER_URL, WEATHER_API_KEY, FETCH_TIMEOUT } from 'config/cons
 axiosRetry(axios, { retryDelay: axiosRetry.exponentialDelay });
 
 export const makeWeatherRequest = async id => {
+  const WEATHER_API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
+
   const { data } = await axios.get(CURRENT_WEATHER_URL, {
     params: {
       APPID: WEATHER_API_KEY,
